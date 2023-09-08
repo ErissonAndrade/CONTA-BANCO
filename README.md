@@ -50,6 +50,3 @@ Se você deseja contribuir para o projeto "CONTA-BANCO", siga estas etapas:
 3. Faça commit das suas alterações: git commit -m 'Adicione uma nova funcionalidade'
 4. Envie para a sua branch: git push origin minha-funcionalidade
 5. Envie um pull request para a branch principal do projeto.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT.
